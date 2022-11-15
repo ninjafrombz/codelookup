@@ -5,7 +5,7 @@ then
 
 		grep -P "([a-z-A-Z]+ )+($2)$" $FILE
 		echo " "
-		echo "Thank you for using this program!"
+		echo "Goodbye!"
 	else
 		echo ""
 		echo "$1 does not exists"
